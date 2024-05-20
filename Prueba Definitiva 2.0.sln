@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba Definitiva 2.0", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo Propina", "Calculo Propina\Calculo Propina.csproj", "{B0F74B85-4417-4F63-9F6F-D318B14AFB82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista Nombres", "Lista Nombres\Lista Nombres.csproj", "{C48BCB7F-3F90-4523-BCA0-47BC85015F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
