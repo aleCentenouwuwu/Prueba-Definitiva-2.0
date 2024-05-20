@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba Definitiva 2.0", "Prueba Definitiva 2.0\Prueba Definitiva 2.0.csproj", "{77E52A9B-5516-4CB2-AAD9-7889C366845E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo Propina", "Calculo Propina\Calculo Propina.csproj", "{B0F74B85-4417-4F63-9F6F-D318B14AFB82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77E52A9B-5516-4CB2-AAD9-7889C366845E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E52A9B-5516-4CB2-AAD9-7889C366845E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E52A9B-5516-4CB2-AAD9-7889C366845E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F74B85-4417-4F63-9F6F-D318B14AFB82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
