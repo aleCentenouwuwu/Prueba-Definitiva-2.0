@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo Propina", "Calculo 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista Nombres", "Lista Nombres\Lista Nombres.csproj", "{C48BCB7F-3F90-4523-BCA0-47BC85015F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda Numero", "Busqueda Numero\Busqueda Numero.csproj", "{BFD33508-2BD3-4961-8EBE-7E2C8E42072A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48BCB7F-3F90-4523-BCA0-47BC85015F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD33508-2BD3-4961-8EBE-7E2C8E42072A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD33508-2BD3-4961-8EBE-7E2C8E42072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD33508-2BD3-4961-8EBE-7E2C8E42072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD33508-2BD3-4961-8EBE-7E2C8E42072A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
